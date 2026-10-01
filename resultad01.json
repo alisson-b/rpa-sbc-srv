@@ -1,0 +1,2053 @@
+[
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "Registration",
+    "horarioInicio": "08:00",
+    "horarioFim": "08:30",
+    "sala": "Hall de Credenciamento",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "Shared Keynote 2 - Digital Twins",
+    "horarioInicio": "09:00",
+    "horarioFim": "10:30",
+    "sala": "Palcos Futuro, Inovação, Conexão",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "A Arte do Game Design*",
+    "horarioInicio": "10:30",
+    "horarioFim": "12:30",
+    "sala": "",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "Coffee Break",
+    "horarioInicio": "10:30",
+    "horarioFim": "11:00",
+    "sala": "",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Artes & Design",
+    "codigo": "ST03",
+    "titulo": "Jogos para Saúde, Sociedade e Cultura",
+    "horarioInicio": "10:30",
+    "horarioFim": "12:00",
+    "sala": "Sala A",
+    "evento": "SBGAMES",
+    "chair": "Rian Rezende (PUC-Rio)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Valores de Pessoas Idosas e Características de Jogos Digitais",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45350",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Artur Martins Mol (PUC Minas); Otaviano Francisco Neves (PUC Minas); Laerte Xavier (PUC Minas); Lucila Ishitani (PUC Minas)"
+      },
+      {
+        "titulo": "Promoting Healthy Eating Through a Board Games",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45354",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Jesse Nery Filho (IF Baiano); Bruna Azevedo Lima Reis (IF Baiano); Joneffe de Jesus Silva (IF Baiano); Wilton Nascimento da Silva (IF Baiano); João Paulo M. Moura (IF Baiano); Matheus da Silva Castro (IF Baiano); Cauã Rodrigo L. de Souza (IF Baiano); Diego Pereira Soares de Paulo (IF Baiano)"
+      },
+      {
+        "titulo": "Aplicação do framework MDA no desenvolvimento de um serious game para representação de relacionamentos abusivos",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45377",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Clara S. G. Gomes (CESAR School); Micaela Krolls (CESAR School); Luiz F. A. de Araujo (CESAR)"
+      },
+      {
+        "titulo": "Polinizadores Esquecidos: um Protótipo de Jogo Digital Inspirado nas Interações Polinizadores-plantas",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45385",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Henrique Baldo Carlos (IFES); Larissa Freitas de Almeida (UFES); Isabel De Conte Carvalho de Alencar (IFES)"
+      },
+      {
+        "titulo": "EITA!: criação e avaliação da estética de um jogo mobile em desenvolvimento para mitigar riscos com tubarões",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45364",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Marina Kunst (UFPE); João Costa (UFPE); Artur Sales (UFPE); Pedro Simões (UFPE); Sérgio Souza (UFPE); Samuel Liberato (UFPE); Maria Salgueiro (UFPE); Ana Silva (UFRPE); Thiago Farias (UFPE); Diego Melo (UFPE); Lucas da Silva (UFPE); Ana Cavalcante (UFPE); José dos Santos (UFRPE); Raquel Palha (UFPE); Adiel Filho (UFPE); José Siqueira (UFPE); Natanael Sobral (UFPE); Marina Barros (Unicap); João Teixeira (UFPE / USP); Walter Correia (UFPE)"
+      },
+      {
+        "titulo": "Concepção de um Jogo Educacional com foco na Cultura Quilombola a partir da Aplicação de um Game Design Document",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45357",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Jonathan José Cardoso de Sales (UFPA); Sandro Ronaldo Bezerra Oliveira (UFPA)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Computação",
+    "codigo": "ST02",
+    "titulo": "Generative AI and Procedural Content Generation",
+    "horarioInicio": "10:30",
+    "horarioFim": "12:00",
+    "sala": "Sala B",
+    "evento": "SBGAMES",
+    "chair": "Troy Kohwalter (UFF)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Planning-Based Game Development: A PDDL Approach to Gameplay Observability and Meta-Awareness",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45395",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Lucas Gobbi Bergholz (UnB); Bruno César Ribas (UnB / UFPR)"
+      },
+      {
+        "titulo": "Towards Player-Oriented Procedural Narratives with Stochastic Grammar-Generated Quests",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45420",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Luiza Torello Vieira (USP); Leonardo Tórtoro Pereira (UNESP); Claudio F. M. Toledo (USP)"
+      },
+      {
+        "titulo": "Generative Artificial Intelligence in Digital Game Design and Development: A Bibliometric and Complex Network Analysis",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45421",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Murilo Mazzotti Silvestrini (UNICAMP); Pedro Henrique Salmaze (USP); Leonardo Tórtoro Pereira (UNESP)"
+      },
+      {
+        "titulo": "GD-KS: A Spec-Driven Multi-Agent Framework for LLM-Assisted Game Development",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45422",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Murilo Mazzotti Silvestrini (UNICAMP); Leonardo Tórtoro Pereira (UNESP)"
+      },
+      {
+        "titulo": "Towards Requirements for Mixed-Initiative Content Orchestration Tools for Game Development",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45435",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Tyago Yuji Teoi (USP); Leonardo Tórtoro Pereira (UNESP); Claudio Fabiano Motta Toledo (USP)"
+      },
+      {
+        "titulo": "A Procedural Technique for 3D Cave Generation",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45405",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "João Vítor Farias Silva (UFPel); Rafael Piccin Torchelsen (UFPel / UFRGS)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Educação",
+    "codigo": "ST03",
+    "titulo": "Jogos para ensino da Computação",
+    "horarioInicio": "10:30",
+    "horarioFim": "12:00",
+    "sala": "Sala C",
+    "evento": "SBGAMES",
+    "chair": "Jesse Nery Filho (IF Baiano)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Caçando o Wumpus no Ensino Médio: Avaliação de Interfaces Físicas para o Ensino de Raciocínio Lógico e Incerteza",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45519",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Mateus Bonfim Track (UEM); Maurilio Martins Campano Junior (UEM / UniCesumar); Gabriel Vinicius de Menezes Gama (UEM); Linnyer Beatrys Ruiz Aylon (UEM)"
+      },
+      {
+        "titulo": "Mistérios, Consultas e Aprendizagem: Um Mapeamento Sistemático de Jogos Educativos para Banco de Dados",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45520",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Leonardo Kawakami Ishida (UEM); Maurilio M. Campano Junior (UEM); Felippe F. Silva (UEM / UniCesumar); Linnyer B. Ruiz Aylon (UEM)"
+      },
+      {
+        "titulo": "Processo de avaliação de um jogo de tabuleiro em relação ao conteúdo, linguagem e acessibilidade",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45536",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Daieli Althaus (UDESC); Luana Zimmer Sarzi (UFSC); Luiza Rios Gonçalves (UFSC); João Mário Basso Nunes (UFSC)"
+      },
+      {
+        "titulo": "Conexão Perdida: Uma Ferramenta Educacional Gamificada para Ensino do Modelo OSI em Redes e Computadores",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45507",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Gabriella Marreiros Staudt (UEPA); João Vitor Jaques de Sousa (UEPA); Nicole Evellyn Sousa Santos (UEPA); Antonilson da Silva Alcantara (UEPA); Raimundo Viegas Junior (UFPA)"
+      },
+      {
+        "titulo": "SimulOSI - Um Simulador de Redes de Computadores como Ferramenta de Apoio para Gamificação na Disciplina de Fundamentos de Redes de Computadores",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45508",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Averaldo Juvenal Menezes Filho (UEPA); Paulo Sérgio da Silva Loraschi (UEPA); Henrique Neãnder Souza David (UEPA); Yuri Costa Matsuzaki (UEPA); Antonilson da Silva Alcantara (UEPA)"
+      },
+      {
+        "titulo": "Ambiente Virtual de Aprendizagem Gamificado para o Ensino de Blockchain: uma proposta baseada no Framework Octalysis",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45539",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Gabriel L. A. Nascimento (CEFET-RJ); Marcus V. C. Parreiras (UFRJ); Diogo S. Mendonça (CEFET-RJ); Geraldo Xexéo (UFRJ)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Artes & Design",
+    "codigo": "ST04",
+    "titulo": "Acessibilidade e Design Inclusivo",
+    "horarioInicio": "10:30",
+    "horarioFim": "12:00",
+    "sala": "Sala D",
+    "evento": "SBGAMES",
+    "chair": "Márcio Catapan (UFPR)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Panorama sobre Design de Jogos para Surdos: Um Mapeamento Sistemático",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45384",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Diana Brito (UFABC); André Kazuo Yasui (UFABC); Rodrigo Martins de Souza (UFABC); Júlia Pessoa (UFABC); Carla L. Rodriguez (UFABC); Denise Hideko Goya (UFABC); André L. Brandão (UFABC)"
+      },
+      {
+        "titulo": "Design Participativo com Crianças Surdas: Adaptação Digital de suas Ideias e Produções Visuais para um Jogo Educativo",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45381",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Lia Aisha Pedroso Mesquita (UFMT); Izabella Richtic Silva (UFMT); Hélder Schneider Frota (UFMT); Maria Clara Itacaramby de Castro (UFMT); Gabriela Laiani de Freitas Loureiro (UFMT); Felipe Gabriel Costa da Silva (UFMT); Tatianne Fernanda Hardoim Barros (UFMT); Ludmilla Fernandes Oliveira Galvão (UFMT)"
+      },
+      {
+        "titulo": "Acessibilidade em Jogos Colaborativos: Explorando o The Vale: Shadow of the Crown",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45359",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "André Luis Carvalho da Silva (UFC); Breno Gonzaga (UFC); Antônio Avelino da Silva (UFC); Evynne Ferreira Avelino (UFC); Ana Cesarina de Oliveira Carneiro (UFC); Marcelo Martins da Silva (UFC)"
+      },
+      {
+        "titulo": "Transcending the Visual Labyrinth: Rethinking Action RPGs Through Art with Inclusive Sound Design for Blind People",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45340",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Arthur Barbosa de Andrade (UFMS); Nathan de Almeida Rezende (UFMS); Gilvan Ferreira Alves Junior (UFMS); Miguel Sobreira de Albuquerque (UFMS); Caio Kwiatkoski Fiori Mendes (UFMS); Lara Liz Perius (UFMS); Vitor Tomaz Zan (UFMS); Ricardo Theis Geraldi (UFMS)"
+      },
+      {
+        "titulo": "Análise de Acessibilidade em Jogos Digitais Independentes",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45349",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Marília Corrêa da Silva Santos (UNICAMP); Virgínia Fernandes Mota (UNICAMP / UFMG); Emanuel Felipe Duarte (UNICAMP)"
+      },
+      {
+        "titulo": "Cinto Háptico Flexível: Design de um Novo Dispositivo Vestível para Jogos Eletrônicos",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45360",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Franklin Matheus da Costa Lima (UFRN); Leonardo Cunha de Miranda (UFRN)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Cultura",
+    "codigo": "ST02",
+    "titulo": "Cultura brasileira, território e patrimônio em jogos",
+    "horarioInicio": "10:30",
+    "horarioFim": "12:00",
+    "sala": "Sala E",
+    "evento": "SBGAMES",
+    "chair": "Daniel Leite Costa (UNIFACISA); Caio Tulio Olimpio Pereira da Costa (UNEB)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "DecifrAdas: Entre linhas do tempo e histórias, quem foram elas em STEM?",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45452",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Julya Campos (UEA); Flávia Brenda (UEA); João Bernardo (UEA); Rafaela Melo (UEA); Fernanda Pires (UEA); Marcela Pessoa (UEA)"
+      },
+      {
+        "titulo": "Jogo Digital Baseado em Obra da Literatura Brasileira como Ferramenta de Preservação da Cultura Nacional",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45439",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Joaquim Bezerra de Freitas Braga (IFBA); Yuri Silva Rodrigues (IFBA); Maria Adélia Icó Machado (IFBA)"
+      },
+      {
+        "titulo": "A Cultura do Litoral Leste do Ceará em Jogos de Tabuleiro: Valorização do Território e da Identidade Cultural por Meio da Ludicidade",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45440",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Andressa B. Ferreira (IFCE); Ingrid de C. Gondim (IFCE); Iasmim de C. Gondim (IFCE); Maria C. da S. Domingos (IFCE); Gabriel Marchon (IFCE); João V. Silva (IFCE); Yane B. Fernandes (IFCE); Guilherme E. R. Silva (IFCE)"
+      },
+      {
+        "titulo": "Aplicando Aspectos da Cultura Paraense no Desenvolvimento do Jogo Tekohá",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45446",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Bryan Young Carvalho Soares (UFPA); Nina Niwa Shibata (UFPA); Thaís Martins Quaresma (UFPA); Pedro Miranda Duarte de Castro (UFPA); Carolina de Lima Alves (UFPA); Manuela Formigosa Balieiro de Araújo (UFPA); Sandro Ronaldo Bezerra Oliveira (UFPA)"
+      },
+      {
+        "titulo": "Café do Vale: O Resgate do Ciclo Produtivo e da Cultura Cafeeira das Fazendas da Região em Jogo",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45448",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Artur Gomes Pontes (IFRJ); Vitor Gomes Pontes (IFRJ); Matheus Teixeira (IFRJ); Matheus Ferreira Manfro (IFRJ); Manuela dos Reis Silva (IFRJ); André Luiz Brazil (IFRJ); Pamela Ketulin Mattos Gomes (IFRJ); Evelyn Marcelino Lima (IFRJ)"
+      },
+      {
+        "titulo": "Cordel e Xilogravura em jogo: Representação do Nordeste brasileiro no jogo de tabuleiro Cangaço (2022)",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45454",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Felipe Cerqueira Santos (UNEB); Caio Tulio Olimpio Pereira da Costa (UNEB); Pedro Farias Ribeiro (UNEB); Paolo D'Alexandria Bruni (UNEB); Paulo Marcelo Spinola Ramos Pereira e Pereira (UNEB); Luna de Jesus Leal (UNEB)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Educação",
+    "codigo": "ST04",
+    "titulo": "Jogos e educação",
+    "horarioInicio": "10:30",
+    "horarioFim": "12:00",
+    "sala": "Sala F",
+    "evento": "SBGAMES",
+    "chair": "Pedro Henrique Dias Valle (USP)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "GuessTheFlag: Development and Evaluation of a Low-Cost Web Game for Geography Education",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45552",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Vitor Ferreira (IF Goiano); Brian Matheus Rodrigues Ribeiro (UFG); Juliana Félix (UFG); Fabrizzio Soares (UFG); Thamer Horbylon Nascimento (IF Goiano)"
+      },
+      {
+        "titulo": "Einstein's Delivery: Bridging the Gap in Special Relativistic Education Through Digital Games",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45528",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Lucas Franco Ramos (USP); Alessandreia Marta de Oliveira (UFJF); Pedro Henrique Valle (USP)"
+      },
+      {
+        "titulo": "Aventuras Matemáticas: Jogo Educacional para Aprendizagem das Quatro Operações no Ensino Fundamental",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45521",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Adailton Costa (UEA); Osvaldo Junior (UEA); Marcela Pessoa (UEA); Fernanda Pires (UEA)"
+      },
+      {
+        "titulo": "O Jogo Sério como Ferramenta de Letramento: Gamificando a Análise de Gêneros Textuais na Obra Procura-se lobo.",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45533",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Gilvana Fialho Pessoa (UFF); Viviane Euclydes da Silva (UFF); Alexandre Farbiarz (UFF)"
+      },
+      {
+        "titulo": "The Safest Option: Boas Práticas de Segurança da Informação no Ambientes Corporativos",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45480",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Arthur Gustavo Macena Moreira (UNIRIO); Matheus Pereira Lucena (UNIRIO); Tadeu Moreira de Classe (UNIRIO); Eduardo Gomes de Oliveira (UNIRIO / IF Sudeste MG); Ronney Moreira de Castro (UNIRIO / UFJF); Henrique Prado de Sá Sousa (UNIRIO); Herick Henrique Cardouzo (UNIRIO)"
+      },
+      {
+        "titulo": "A Serious Game for Handwriting Training and Smart City Learning",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45500",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Thales J. Santos (UTFPR); Simone N. Matos (UTFPR); Simone B. Kaminski Aires (UTFPR); Marcos V. S. Passos (UTFPR)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Saúde",
+    "codigo": "ST02",
+    "titulo": "Terapia e Reabilitação",
+    "horarioInicio": "10:30",
+    "horarioFim": "12:00",
+    "sala": "Sala G",
+    "evento": "SBGAMES",
+    "chair": "Daniela Karine Ramos (UFSC)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Empregando Mecânica de Progressão On-Rail e Tecnologias de Jogos 3D no Apoio à Intervenção Terapêutica em Crianças com Transtorno do Espectro Autista",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45583",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Ana Cesarina de Oliveira Carneiro (UFC); David Oliveira Silva (UFC); Marcelo Martins da Silva (UFC); Gabriel Antoine Louis Paillard (UFC Virtual); Antônio José Melo Leite Júnior (UFC Virtual)"
+      },
+      {
+        "titulo": "BEMOLIS - Plataforma Mobile Baseada em Jogos Musicais para Apoiar a Intervenção Linguística em Crianças Autistas",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45588",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Arthur Castro Machado Murta (PUC Minas); Rosilane Ribeiro Mota (PUC Minas); Aline Moreira Brandão André (UFMG)"
+      },
+      {
+        "titulo": "Engineering a Clinically Traceable Serious Game for Autism Spectrum Disorder",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45595",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Bruna M. Barbosa (UFG); Carlos Henrique R. Souza (UFG); Halleffy H. Reis Santos (UFG); Pedro M. R. G. Silva (UFG); Daniela F. do Nascimento (UFG); Luciana O. Berretta (UFG); Sérgio T. Carvalho (UFG)"
+      },
+      {
+        "titulo": "Desenvolvimento de um Sistema Full-Stack para Terapia Baseada em Jogos",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45582",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Clara Oliveira Mello Monteiro (PUC-MG); Rosilane Ribeiro Mota (PUC-MG)"
+      },
+      {
+        "titulo": "Competências emocionais e saúde mental na infância digital: desenvolvimento e validação do jogo Okan",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45579",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Letícia Cogo (UFSC); Daniela Karine Ramos (UFSC)"
+      },
+      {
+        "titulo": "Uso de Jogos Digitais como Ferramentas de Estimulação Cognitiva no Tratamento do Alzheimer",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45598",
+        "horarioInicio": "10:30",
+        "horarioFim": "12:00",
+        "autores": "Ana Carolina Xavier Castro (UESB); Euler da Silva Lima (UESB); Maria Luísa Ghizoni Gonzalez (UESB)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Cultura",
+    "codigo": "",
+    "titulo": "SP Short Paper 01",
+    "horarioInicio": "11:00",
+    "horarioFim": "12:30",
+    "sala": "Espaço PESQUISA",
+    "evento": "SBGAMES",
+    "chair": "Daniel Leite Costa (UNIFACISA); Caio Tulio Olimpio Pereira da Costa (UNEB)",
+    "quantidadePapers": 17,
+    "quantidadeSubsessions": 17,
+    "papers": [
+      {
+        "titulo": "Jogo de tabuleiro autoral como instrumento de mediação da memória cultural e territorial em Aracati",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Ingrid de Castro Gondim; Iasmim de Castro Gondim; João Vitor Silva; Andressa Bezerra Ferreira; Samuel Levi Silva de Oliveira"
+      },
+      {
+        "titulo": "Jogo de Tabuleiro Cooperativo Sobre a História de Itaiçaba",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "João Vitor Silva; Ingrid de Castro Gondim; Iasmim de Castro Gondim; Andressa Bezerra Ferreira; Samuel Levi Silva de Oliveira"
+      },
+      {
+        "titulo": "Jogo de Tabuleiro Como Ferramenta de Valorização e Preservação da Cultura de Fortim",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Guilherme Silva; Samuel Levi Silva de Oliveira; Andressa Ferreira"
+      },
+      {
+        "titulo": "Desenvolvimento de um Jogo Analógico Inspirado na Cultura de Jaguaruana-CE para Promoção da Interação Social Offline",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Yane Bezerra; Samuel Levi Silva de Oliveira; Andressa Ferreira"
+      },
+      {
+        "titulo": "Caiçara: Um Jogo de Tabuleiro para Valorização Cultural e Territorial de Icapuí-CE",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Gabriel Marchon; Samuel Levi Silva de Oliveira; Andressa Bezerra Ferreira"
+      },
+      {
+        "titulo": "Valorização da memória cultural e territorial por meio de um jogo de tabuleiro em Cascavel (CE)",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Iasmim De Castro Gondim; Ingrid de Castro Gondim; João Vitor Silva; Andressa Bezerra Ferreira; Samuel Levi Silva de Oliveira"
+      },
+      {
+        "titulo": "Transposição do Artesanato de Areias Coloridas de Beberibe para o Design de Jogos de Cartas",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Maria Camily da Silva Domingos; Samuel Levi Silva de Oliveira; Andressa Bezerra Ferreira"
+      },
+      {
+        "titulo": "JaguariCards: Jogo de Cartas para Valorização Cultural e Fortalecimento da Identidade Regional do Vale do Jaguaribe",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Milena Maia; Jose Iury Vieira Costa; Lucas Santos; Douglas Lima; Pitagoras Graça Martins; Jacilane de H. Rabelo"
+      },
+      {
+        "titulo": "Jaguaribe Adventure - Entre Memórias e Guardiões: Uma Proposta de Jogo Digital Baseado no Folclore para Valorização do Patrimônio Cultural do Vale do Jaguaribe",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Jose Iury Vieira Costa; Milena Maia; Lucas Santos; Douglas Lima; Rai Rodrigues; Cauã Nascimento; Pitagoras Graça Martins; Jacilane de H. Rabelo"
+      },
+      {
+        "titulo": "Noite Sem Lua: Lendas Brasileiras em um Jogo de Terror",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Nicholas Schreen; Belmondo Rodrigues Aragão Junior"
+      },
+      {
+        "titulo": "“Fortal BORA!” A Pervasive Game Prototype about teaching Culture of Fortaleza, Brazil",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Pedro Arruda de Oliveira; Sofia Ramos; Bruno Correia da Silva"
+      },
+      {
+        "titulo": "Mediação Cultural e Design Narrativo: O uso de representações históricas felinas no jogo Tails Through Time",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45463",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Breno Avelino Costa da Silva (CEFET/RJ); Laura Rangel (CEFET/RJ); Marcus Parreiras (CEFET/RJ / UFRJ); Thiago Prego (CEFET/RJ); Laryssa Curty da Silva (CEFET/RJ); Laís Lopes (CEFET/RJ); Geraldo Xexéo (UFRJ)"
+      },
+      {
+        "titulo": "Quando os jogos ensinam sem dizer: Relações entre jogador e ambiente em jogos digitais",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Dayanne Ives dos Santos-Ferreira; Marcelo Simão Vasconcellos"
+      },
+      {
+        "titulo": "Save Animals: O uso de jogos digitais para a conscientização sobre o bem-estar animal",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Júlia Ferreira da Costa; Thiago Afonso de Almeida Borges; Alexandra Rivera"
+      },
+      {
+        "titulo": "Consumo e Exclusão: A Reprodução da Invisibilidade Trans na Indústria Brasileira de Games",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Lohan Silva"
+      },
+      {
+        "titulo": "A arte de apagar: Um estudo exploratório do jogo If found...",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Pedro Arruda de Oliveira; Giovana Vieira; Samuel Costa Do Nascimento; Marcelo Martins da Silva"
+      },
+      {
+        "titulo": "Camadas atencionais e imersão em XR: um estudo via Research through Design do projeto “Acertos do Poeta Errante”",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Maria Luísa Freitas Ferreira; juliana mota; Diego Ricca"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Saúde",
+    "codigo": "",
+    "titulo": "SP Short Paper 01",
+    "horarioInicio": "11:00",
+    "horarioFim": "12:30",
+    "sala": "Espaço PESQUISA",
+    "evento": "SBGAMES",
+    "chair": "Daniela Karine Ramos (UFSC); Isabel Cristina Siqueira da Silva (UFCSPA)",
+    "quantidadePapers": 8,
+    "quantidadeSubsessions": 8,
+    "papers": [
+      {
+        "titulo": "A Modular Web-Based Framework for Inclusive Telerehabilitation and Faster Serious Game Development",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Yam da Cunha; Rummenigge Dantas"
+      },
+      {
+        "titulo": "Dengue Survivors: Um Horde Survival para a Conscientização do Combate ao Mosquito Aedes Aegypti",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Alex Junior; Victor Travassos Sarinho"
+      },
+      {
+        "titulo": "Desenvolvimento de um exergame para incentivo à atividade física em pessoas idosas utilizando cicloergômetro",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Rafaela Gomes; Sara Del Vecchio; S. T. Faceroli; Tales Ramos; Thiago Oliveira"
+      },
+      {
+        "titulo": "Feedback Háptico como Estratégia de Acessibilidade Auditiva em Jogos Digitais: Uma Revisão Integrativa",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Rafael Costa Ferreira; Douglas Santiago Kridi"
+      },
+      {
+        "titulo": "Gamification of Healthy Habits integrated into Health Insurance Systems",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Yuuri Bego de Oliveira; Glauber Balthazar; Fabio Feliciano de Oliveira"
+      },
+      {
+        "titulo": "MiauMímica: A Computer Vision-Based Serious Game Prototype for Motor Imitation Training",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Yuuri Bego de Oliveira; Fabio Feliciano de Oliveira"
+      },
+      {
+        "titulo": "Pong Humano: Um Exergame Baseado em Visão Computacional para Estímulo do Desenvolvimento Psicomotor",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Vitor Augusto Novaes de Jesus; Victor Travassos Sarinho"
+      },
+      {
+        "titulo": "triCICLO: desenvolvimento de um Framework Conceitual para Pesquisa-Intervenção baseada em Social Gaming",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Rebeca Gliosci"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Computação",
+    "codigo": "",
+    "titulo": "SP Short Paper 01",
+    "horarioInicio": "11:00",
+    "horarioFim": "12:30",
+    "sala": "Espaço PESQUISA",
+    "evento": "SBGAMES",
+    "chair": "André Luiz Brandão (UFABC); Rodrigo Pereira dos Santos (UNIRIO)",
+    "quantidadePapers": 8,
+    "quantidadeSubsessions": 8,
+    "papers": [
+      {
+        "titulo": "SBCGames: A dataset of digital games from SBC events",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Felippe Silva"
+      },
+      {
+        "titulo": "Controlling Energy-Propagation-Based Dungeon Generation using Genetic Algorithms",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Rafael Damasceno Marques dos Santos; Rodrigo Colnago Contreras; Gabriel Bueno Guimarães; Monique Simplicio Viana; Rodrigo Guido"
+      },
+      {
+        "titulo": "Bounding Polygon Generation in 2D Games Through Contour Extraction",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Maria Moroni; Paulo Andrade; Judson Santos Santiago"
+      },
+      {
+        "titulo": "Integrating Game Learning Analytics and Local LLMs for Automated Interpretation of Player Behaviour in Games",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "GuilhermeHugo Araujo Silva; Iris Cabral; Júlia Pessoa; Karla Vittori; André Luiz Brandão"
+      },
+      {
+        "titulo": "Omnigenesys: A Universal Framework for Procedural Map Generation in Digital Games",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Rodrigo Dubeux; Erick Simões"
+      },
+      {
+        "titulo": "A Declarative Model for Social Deduction Games with Communication",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Lucas Araujo Carvalho; Geraldo Xexéo"
+      },
+      {
+        "titulo": "Using Neoconstructivist-Based Serious Games to Teach Programming Fundamentals",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Roberto Beleza Feitosa; José Francisco Magalhães Netto"
+      },
+      {
+        "titulo": "Football Match Prediction: A Monte Carlo Simulation Approach and Perspectives with Neural Networks",
+        "link": "",
+        "horarioInicio": "11:00",
+        "horarioFim": "12:30",
+        "autores": "Warner Pereira Cardoso Júnior; Críscilla M. C. Rezende; Dioscoros Brito Aguiar Junior"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "SBoardGames SESSAO Freestyle",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "Festival de Jogos Digitais",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Artes & Design",
+    "codigo": "ST05",
+    "titulo": "Narrativa, Storytelling e Representação",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Sala A",
+    "evento": "SBGAMES",
+    "chair": "Rian Rezende (PUC-Rio)",
+    "quantidadePapers": 4,
+    "quantidadeSubsessions": 4,
+    "papers": [
+      {
+        "titulo": "Dois Mundos, Uma Tela: Framework de Design Visual Contrastivo para Worldbuilding de Patrimônio Cultural em Videogames",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45393",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "Stefany López (Universidad Militar Nueva Granada); Leidy Pinzón (Universidad Militar Nueva Granada); Eduard Sierra-Ballén (Universidad Militar Nueva Granada)"
+      },
+      {
+        "titulo": "A Anatomia da Ruína: Ocularização e Animação como Sistemas Narrativos em Elden Ring",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45355",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "Maria Clara Dantas Tavares Cardinot (FAAP); Alexandre Vieira da Silva (FAAP)"
+      },
+      {
+        "titulo": "Environmental Storytelling: An Integrative Review of Storytelling Through the Environment in Digital Games",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45370",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "André Rodrigues Rocha (IFCE); Pedro Arruda de Oliveira (UNICAMP); Bruno Correia da Silva (IFCE)"
+      },
+      {
+        "titulo": "O Design da Ausência: Silêncio, Sinergia e a Coautoria do Luto em Jogos Digitais",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45362",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "Alicia M. P. Brito (UNIFACISA); Danyllo L. Santos (UNIFACISA); Giulia L. M. Aragão (UNIFACISA); Rennan G. S. Ribeiro (UNIFACISA)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Artes & Design",
+    "codigo": "ST06",
+    "titulo": "Estética, Arte e Som",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Sala D",
+    "evento": "SBGAMES",
+    "chair": "Alysson Souza (UFRN)",
+    "quantidadePapers": 5,
+    "quantidadeSubsessions": 5,
+    "papers": [
+      {
+        "titulo": "CRIAÇÃO DE UM ART GAME NARRATIVO: critérios para a construção do conceito de alto nível de Speculare",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45367",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "Patrícia Ferreira (CESAR School); Luiz Araújo (CESAR School)"
+      },
+      {
+        "titulo": "Acoplamento Áudio-Mecânica: Proposição de uma Categoria Analítica para a Relação entre Som e Ação em Jogos Digitais",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45343",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "Matheus Gomes Teixeira da Paz (UEM); Rael Bertarelli Gimenes Toffolo (UNESPAR)"
+      },
+      {
+        "titulo": "Sound Design e Reconstrução Sonora Histórica em Jogo Digital Baseado em Clássico da Literatura Brasileira",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45342",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "Joaquim Bezerra de Freitas Braga (IFBA); Yuri Silva Rodrigues (IFBA); Maria Adélia Icó Machado (IFBA)"
+      },
+      {
+        "titulo": "Entre o românico e o gótico: referências arquitetônicas no Templo do Tempo em The Legend of Zelda: Breath of the Wild",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45341",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "Barbara do Nascimento Oliveira (UFAL); Anna Maria Vieira Soares Filha (UFAL); Morgana Maria Pitta Duarte Cavalcante (UFAL); Layane Nascimento de Araujo (UFAL)"
+      },
+      {
+        "titulo": "As Artes e Designs dos Bosses do Jogo Tekohá: Um Detalhamento da Concepção das Mecânicas e da Influência Cultural",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45356",
+        "horarioInicio": "14:00",
+        "horarioFim": "16:30",
+        "autores": "Pedro Miranda Duarte de Castro (UFPA); Carolina de Lima Alves (UFPA); Manuela Formigosa Balieiro de Araújo (UFPA); Thaís Martins Quaresma (UFPA); Bryan Young Carvalho Soares (UFPA); Nina Niwa Shibata (UFPA); Sandro Ronaldo Bezerra Oliveira (UFPA)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Cultura",
+    "codigo": "ST03",
+    "titulo": "Educação, aceitação tecnológica e mediação culturala",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Sala E",
+    "evento": "SBGAMES",
+    "chair": "Daniel Leite Costa (UNIFACISA); Caio Tulio Olimpio Pereira da Costa (UNEB)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Museu virtual como instrumento de preservação, visibilidade e circulação da Cultura Tapajônica",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45466",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Sandra R. dos Remédios (UFOPA); Alice T. C. Lopes (Cariátides Art Tech); João P. N. da Costa (Cariátides Art Tech); Anna T. C. Lopes (Cariátides Art Tech / UFOPA); Márcio J. M. da Ponte (UFOPA)"
+      },
+      {
+        "titulo": "O Modelo de Aceitação de Tecnologia (TAM) aplicado a Jogos Digitais e Gamificação: Um Mapeamento Sistemático da Literatura",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45438",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Raphael R. D. Costa (PUC Minas); Ronan Loschi (PUC Minas); Mark Alan Junho Song (PUC Minas); Lucila Ishitani (PUC Minas)"
+      },
+      {
+        "titulo": "Jogos de Simulação e Divulgação Científica: Uma Investigação nos Anais do SBGames",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45443",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Rodrigo Cassaro Resende (FIOCRUZ); Marcelo Simão de Vasconcellos (FIOCRUZ)"
+      },
+      {
+        "titulo": "Aceitação de Jogos Educativos por Pessoas Idosas: Uma Análise das Relações entre Construtos de Experiência de Uso e Aprendizagem",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45445",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Raphael R.D. Costa (PUC Minas); Ronan Loschi (PUC Minas); Mark Alan Junho Song (PUC Minas); Lucila Ishitani (PUC Minas)"
+      },
+      {
+        "titulo": "Divulga PIXEL: Curadoria Digital e Mediação Cultural para Jogos Educativos Universitários do CEFET/RJ",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45463",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Breno Avelino Costa da Silva (CEFET/RJ); Laura Rangel (CEFET/RJ); Marcus Parreiras (CEFET/RJ / UFRJ); Thiago Prego (CEFET/RJ); Laryssa Curty da Silva (CEFET/RJ); Laís Lopes (CEFET/RJ); Geraldo Xexéo (UFRJ)"
+      },
+      {
+        "titulo": "Contra-hegemonia em Artefatos Digitais Educacionais: Estudo de uma Narrativa sobre História do Brasil",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45451",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Janaina Gonçalves (UFABC); Júlia Pessoa (UFABC); André Kazuo Yasui (UFABC); Karla Vittori (UFABC); André L. Brandão (UFABC)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Saúde",
+    "codigo": "ST03",
+    "titulo": "Terapia e Reabilitação",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Sala G",
+    "evento": "SBGAMES",
+    "chair": "Luana Zimmer Sarzi (UFSC)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Sistema de reabilitação fisioterapêutica dos membros superiores para idosos",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45596",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Luisa Nogueira Campos Silva Souza (PUC-MG); Rosilane Ribeiro da Mota (PUC-MG)"
+      },
+      {
+        "titulo": "Proposta de Melhorias de um Ambiente Interativo para Reabilitação Física de Membros Inferiores Baseado em IoT",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45585",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Leonardo Cunha Gazen Manzke (UNIPAMPA); Juan Rocha Stefani (UNIPAMPA); Rafael Luz Melo (UNIPAMPA); Maria Eduarda Maia Almeida (UNIPAMPA); Erico Marcelo Hoff do Amaral (UNIPAMPA); Julio Saraçol Domingues Júnior (UNIPAMPA)"
+      },
+      {
+        "titulo": "Serious Game Proposal for Lower Limb Physical Rehabilitation",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45597",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Juan Rocha Stefani (UNIPAMPA); Miguel Lucas Tadeo (UNIPAMPA); Erico Marcelo Hoff do Amaral (UNIPAMPA); Julio Saraçol Domingues Júnior (UNIPAMPA)"
+      },
+      {
+        "titulo": "Development of a serious game for respiratory rehabilitation in asthma patients",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45580",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Letícia Vitória Dulce Teixeira (IF Sudeste MG); Sara DelVecchio (IF Sudeste MG); Silvana Terezinha Faceroli (IF Sudeste MG); Tales Pulinho Ramos (IF Sudeste MG); Thiago Rodrigues Oliveira (IF Sudeste MG)"
+      },
+      {
+        "titulo": "Indução de Flow na Reabilitação Física: Design e Mecânicas do Jogo Sério PhysioBirds",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45584",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Brayon Lopes Silva (UNIPAMPA); Vitor da Silva Moreira (UNIPAMPA); Érico Marcelo Hoff do Amaral (UNIPAMPA); Julio Saraçol Domingues Júnior (UNIPAMPA)"
+      },
+      {
+        "titulo": "Timing Game: A Mobile Serious Game for Temporal Processing Assessment in Digital Health",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45576",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Alan Floriano Teixeira (UFABC); André Luiz Brandão (UFABC); André Mascioli Cravo (UFABC); João Paulo Gois (UFABC)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Computação",
+    "codigo": "ST03",
+    "titulo": "Game Analytics and Player Modeling",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Sala B",
+    "evento": "SBGAMES",
+    "chair": "José Ricardo da Silva Júnior (IFRJ)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Using Data Augmentation and Machine Learning for Identifying the Correct Level of Difficulty in Games",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45398",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "André Gomes da Silva (IFRJ); Fernando Santos (PUC-Rio); Augusto Baffa (PUC-Rio); Jose Ricardo da Silva Junior (IFRJ)"
+      },
+      {
+        "titulo": "Player Profiling in World of Warcraft Using CTGAN-Generated Synthetic Data and Bartle’s Archetypes",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45400",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Fernando Bernardo dos Santos (PUC-Rio); Augusto Cesar Espíndola Baffa (PUC-Rio); José Ricardo da Silva Junior (IFRJ); José Alberto Rodrigues Pereira Sardinha (PUC-Rio)"
+      },
+      {
+        "titulo": "From Outcome Prediction to Advantage Construction: A Temporal and Spatial Attribution Framework for League of Legends",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45416",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Henrique de Macedo Airoso da Silva (UDESC); Yuri Kaszubowski Lopes (UDESC)"
+      },
+      {
+        "titulo": "Computer Vision for MOBA Analytics: A Dataset and Baseline for Visibility Analysis in Dota 2",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45423",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Ricardo da Rocha Carvalho (PUCPR); Eloísa Oliveira (PUCPR); Luiz Bernardo Martins Kummer (PUCPR); Emerson Cabrera Paraiso (PUCPR); Rayson Laroca (PUCPR)"
+      },
+      {
+        "titulo": "Unsupervised behavioral profiling of deception (bluffing) using structured and embedding features with clustering algorithm",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45425",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Kevin S. Bertoldo (UFU); Rita M. S. Julia (UFU); Elaine R. Faria (UFU); Marcelo Z. do Nascimento (UFU)"
+      },
+      {
+        "titulo": "Complexity Analysis in Counter Strike 2 Spray Patterns",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45428",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Cauan Santos (UFS); Rodolfo Garcia (UFS)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Educação",
+    "codigo": "ST05",
+    "titulo": "Jogos e Pensamento Computacional",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Sala C",
+    "evento": "SBGAMES",
+    "chair": "Jesse Nery Filho (IF Baiano)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Feedback Pedagógico e Adaptativo em Jogos Sérios: Revisão Sistemática com foco em Pensamento Computacional e Equidade de Gênero.",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45549",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Ivan Ferreira Martins (UFG); Sergio Teixeira de Carvalho (UFG); Luciana de Oliveira Berretta (UFG)"
+      },
+      {
+        "titulo": "Logick: Um Jogo Educativo Voltado Para o Eixo de Pensamento Computacional da BNCC da Computação",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45512",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Leonardo A. R. Aguiar (UFV); Philipe de Freitas Melo (UFV); Daniel M. Barbosa (UFV)"
+      },
+      {
+        "titulo": "Um Jogo Educacional com Programação em Blocos para a Formação do Pensamento Computacional Paralelo",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45481",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Flávio Ramon A. de Souza (UFPA); Maurício A. Pinheiro (UFPA); Josivaldo de S. Araújo (UFPA)"
+      },
+      {
+        "titulo": "Um Jogo Digital para Promoção da Cultura Afro-Brasileira e Introdução ao Pensamento Computacional",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45484",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Ângelo Magno de Jesus (IFMG)"
+      },
+      {
+        "titulo": "Produção de um jogo educacional digital voltado ao desenvolvimento do pensamento computacional: uma percepção docente acerca do jogo Fuga de Marte",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45491",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Guilherme Teles Ribeiro (IF Baiano); Jesse Nery Filho (IF Baiano)"
+      },
+      {
+        "titulo": "From Code to Physical: The Analog Arcade as a Pedagogical Tool for Disseminating Educational Games in Professional Education",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45495",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Felipe D. de Andrade (SENAC MS); Mauricio de S. Estevam (SENAC MS); Gabriel F. C. de Medeiros (SENAC MS); Ederson R. da Costa (SENAC MS); Lucas F. dos Santos (SENAC MS); Erick S. Mendes (SENAC MS)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Educação",
+    "codigo": "ST06",
+    "titulo": "Jogos para o ensino da Computação - Desenvolvimento",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Sala F",
+    "evento": "SBGAMES",
+    "chair": "Danilo Sande Santos (IF Baiano)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "The Startup Game: Jogo Sério para Fomentar o Empreendedorismo e a Tomada de Decisões Estratégicas nos Negócios",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45488",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Thaysa Reis de Souza (UFPE); Marcele Elisa Fontana (UFPE); Vilmar Santos Nepomuceno"
+      },
+      {
+        "titulo": "Aplicando Aprendizagem Baseada em Jogos no Ensino de Engenharia de Software por meio do Minecraft Education",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45540",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Claudia Werlich (Faculdade SENAC Joinville); Gabriel Caixeta Silva (Faculdade SENAC Joinville); Kauan Henrique Werlich (UDESC)"
+      },
+      {
+        "titulo": "Entre códigos e níveis: como a (re)criação de um jogo educacional pode ser uma ferramenta de aprendizagem",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45546",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Jean Miguel (UEA); José Carlos Duarte (UEA / UFAM); Marcela Pessoa (UEA); Fernanda Pires (UEA)"
+      },
+      {
+        "titulo": "Um Jogo para Exercitar Habilidades de Testador de Software",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45559",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Adonai França Silva (UFC); Paulyne Jucá (UFC); Arthur Callado (UFC)"
+      },
+      {
+        "titulo": "Hefesto Game Lab: aceitação e aplicabilidade de uma ferramenta de autoria para geração de GDDs educacionais orientados ao Pensamento Computacional",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45509",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Allan Kássio Beckman Soares da Cruz (UFMA); Pamela Torres Maia Beckman da Cruz (Universidade de Coimbra); William Martins (UFMA); Kleydson Beckman Barbosa (UFMA / UFPI); Carlos de Salles Soares Neto (UFMA / UFPI); Mario Meireles Teixeira (UFMA / UFPI)"
+      },
+      {
+        "titulo": "SpaceTesters: Um Jogo de Tabuleiro para o Ensino de Testes de Software de Caixa Preta",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45492",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Gabriel Afonso Pantoja da Silva (UFPA); Sandro Ronaldo Bezerra Oliveira (UFPA); Isaac Souza Elgrably (CESUPA)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "[CTDGames] Concurso de Teses",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Sala AZUL",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 4,
+    "quantidadeSubsessions": 4,
+    "papers": [
+      {
+        "titulo": "#25735: Uma Arquitetura para Ajuste Dinâmico de Dificuldade em Jogos Single Player Baseada no Loop MAPE-K",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "14:20",
+        "autores": "Carlos Henrique Rorato Souza (Candidato); Luciana de Oliveira Berretta (Orientadora); Sergio Carvalho (Orientador) Prêmio: Técnico"
+      },
+      {
+        "titulo": "#26694: Design de Jogos de Guerra Didáticos sobre o Confronto no Processo de Planejamento Militar",
+        "link": "",
+        "horarioInicio": "14:20",
+        "horarioFim": "14:40",
+        "autores": "Leandro Ouriques (Candidato); Geraldo Xexéo (Orientador) Prêmio: Técnico"
+      },
+      {
+        "titulo": "#28554: Abordagem Sistêmica na Educação em Saúde: Metodologia de Construção de Jogos para Promover a Colaboração em Equipes Interdisciplinares",
+        "link": "",
+        "horarioInicio": "14:40",
+        "horarioFim": "15:00",
+        "autores": "Márcio Silva Camilo (Candidato); Claudia Motta (Orientadora) Prêmio: Técnico"
+      },
+      {
+        "titulo": "#29251: Avaliação da Experiência Ótima de Jogadores via Escalas de Fluxo: Revisões, Diretrizes Psicométricas, Jogo Digital e Instrumentos Psicométricos",
+        "link": "",
+        "horarioInicio": "15:00",
+        "horarioFim": "15:20",
+        "autores": "Fabio phillip rocha Marques (Candidato); Leonardo Cunha de Miranda (Orientador) Prêmio: Game Design"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Arte e Design",
+    "codigo": "",
+    "titulo": "SP Short Paper 02",
+    "horarioInicio": "14:00",
+    "horarioFim": "15:30",
+    "sala": "Espaço PESQUISA",
+    "evento": "SBGAMES",
+    "chair": "Róger Aburto (UFBA); Rian Rezende (PUC Rio)",
+    "quantidadePapers": 20,
+    "quantidadeSubsessions": 20,
+    "papers": [
+      {
+        "titulo": "Adaptive Audio as Narrative: Designing a Serious Game for Chagas Disease Awareness",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Moisés Rodrigues; Jocemar de Quadros Chagas"
+      },
+      {
+        "titulo": "Desenvolvimento do jogo \"ReciclaDão\" como instrumento de sensibilização para questões de sustentabilidade ambiental",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Walter Anibal Rammazzina Filho; Welyson Fernando do Prado de Carlos; Flávia Belintani Blum Haddad"
+      },
+      {
+        "titulo": "E-π: jogo de tabuleiro sobre equipamento de proteção",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Joao Moraes; Maurício Luiz Farias; Fabiane da Hora Santana; Daniele da Silva Lima; André Ribeiro Dias; Sidney Leal"
+      },
+      {
+        "titulo": "Arquitetura hospitalar e jogos de gerenciamento hospitalar: Uma análise comparativa de fluxos e espaços em Two Point Hospital e Project Hospital",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Lucas Mello; Diego Augusto Lobo; Paulo Penasio"
+      },
+      {
+        "titulo": "AI for Inclusion: A Systematic Review on Artificial Intelligence for Accessibility in Digital Games",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Wanessa Marcos; Hiago Alves; Heitor Henrique dos Santos; Pedro Arruda de Oliveira; Emanuel Felipe Duarte; Virginia Fernandes Mota"
+      },
+      {
+        "titulo": "A TRANSMIDIAÇÃO DE [OMITIDO PARA REVISÃO ANÔNIMA]: DE ÁLBUM MUSICAL À VISUAL NOVEL",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Thomas Cardoso de Miranda; Geraldo Xexéo"
+      },
+      {
+        "titulo": "Estrutura em Três Atos Inspirada na Jornada do Herói como Restrição para Narrativas Geradas por IA em RPGs Digitais",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Caio Silva Azeredo; Marcus Parreiras; Geraldo Xexéo"
+      },
+      {
+        "titulo": "Efeitos de más práticas de UI/UX na experiência de aprendizagem: Uma análise do jogo educacional Kanban Global",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Beatriz Loyola; Pedro Bedor; João Silva; Erick Simões"
+      },
+      {
+        "titulo": "Cross-Cultural Interface Design in Digital Games: An Exploratory Analysis of UI Localization Strategies",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "João Silva; Beatriz Loyola; Pedro Bedor; Erick Simões"
+      },
+      {
+        "titulo": "Quando “Piorar” a Vida do Jogador Torna um Jogo Melhor: Frustração e Vulnerabilidade como Ferramentas de Game Design",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Giulia Aragão; Daniel Leite Costa"
+      },
+      {
+        "titulo": "O caminho simbólico para o fluxo: Arquétipos e engajamento nos games / The Symbolic Path to Flow: Archetypes and Engagement in Games",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Farmy Goncalves Ferreira d Silva; Geraldo Xexéo"
+      },
+      {
+        "titulo": "Impacto social do design inclusivo de personagens em jogos digitais",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "EDUARDO SIMOES; Erick Simões; Matheus Lima Ramalho"
+      },
+      {
+        "titulo": "Museu Sankofa: jogo digital para auxiliar no ensino de história",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "João Mário Basso Nunes; Luana Zimmer Sarzi; Daieli Althaus; Caetano Reginato Salvador"
+      },
+      {
+        "titulo": "Algoritmia: Arena Lógica - Desenvolvimento de um jogo de tabuleiro MOBA voltado para o ensino de Programação",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "João Paulo M. Moura; Carlos Silva; Jesse Nery Filho"
+      },
+      {
+        "titulo": "Álgebra Linear como Elemento de Jogabilidade através de Ressonância Narrativo-Mecânica e Interfaces Diegéticas",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Douglas Lima; FERNANDO DANTAS; Davi Rodrigues; Rafael Fernandes Ivo"
+      },
+      {
+        "titulo": "LetraMania: A Game Design Analysis for Accessibility in Digital Games Targeting Children with Autism Spectrum Disorder",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Luis Eduardo Rasch; Gabriel Moura de Sousa Guilherme; Daniela Alves de Azevedo; Ânderson dos Santos Ritta; Tatiana Tavares"
+      },
+      {
+        "titulo": "ECCOA DONUT: Um Jogo Sério para Aprendizagem de Sustentabilidade no Ensino Superior",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Maria Estela Oliveira de Paula; Maria Clarissa Carminatti de Assumpção; Marcus Parreiras; Wladmir Henriques Motta; Geraldo Xexéo"
+      },
+      {
+        "titulo": "Desenvolvimento de um Simulador Gamificado para o Ensino de Supply Chain Management: Uma Abordagem sobre o Efeito Bullwhip",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Laura Rangel; Breno Avelino Costa da Silva; Aluisio dos Santos Monteiro Junior; Marcus Parreiras"
+      },
+      {
+        "titulo": "Design and Orchestration: Dynamic Player Modeling for Immersive Horror Experiences",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Jonatas Cleyton Fonseca Coelho; Pedro Arruda de Oliveira; Leonardo Tortoro Pereira; Bruno Correia da Silva"
+      },
+      {
+        "titulo": "Mihrage: Visual Novel Interativa para o Ensino de Programação e Conscientização sobre Violência de Gênero",
+        "link": "",
+        "horarioInicio": "14:00",
+        "horarioFim": "15:30",
+        "autores": "Kauã Castro; Marcus Parreiras; Marcelo Silva; Geraldo Xexéo"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "Coffee Break + Pitch your Lab (mesas demos)",
+    "horarioInicio": "15:30",
+    "horarioFim": "16:00",
+    "sala": "",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "Premiação dos Festivais (Digitais, SBoardGames e Artes)",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Palco Inovação",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Artes & Design",
+    "codigo": "ST07",
+    "titulo": "Game Design, UX e Experiência do Jogador",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Sala A",
+    "evento": "SBGAMES",
+    "chair": "Fabrizio (UFAM/UEA)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Level up no design: um caso de redesign de interface em um jogo educacional",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45383",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Eduarda Portes (UEA / UFAM); Jeniffer Macena (UEA); Fernanda Pires (UEA); Marcela Pessoa (UEA)"
+      },
+      {
+        "titulo": "Cuore di Nonna: Design emocional, usabilidade e a construção de experiências afetivas em um cozy game universitário",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45390",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Juliana Cristina Camargo (UNEB); Caio Tulio Olimpio Pereira da Costa (UNEB); Thaís Ferreira Santos (UNEB); Jonas Santana Barreto (UNEB); João Lucas Pinho Castro (UNEB); Paulo Marcelo Spínola Ramos Pereira e Pereira (UNEB)"
+      },
+      {
+        "titulo": "Flowtris: Design de Um Jogo de Quebra-Cabeça de Ação para Indução Multidimensional do Fluxo",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45375",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Fábio Phillip Rocha Marques (UFRN); Leonardo Cunha de Miranda (UFRN)"
+      },
+      {
+        "titulo": "Utilização da Metodologia OOUX e da Avaliação Heurística na Prototipação de um Jogo Multiplayer Cooperativo",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45363",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Francisco Araujo Loureiro Neto (UEA); Eduardo Jorge Lira Antunes da Silva (UEA); Cristina Souza de Araújo (UEA); Jucimar Maia da Silva Júnior (UEA)"
+      },
+      {
+        "titulo": "Game Design e Engajamento do Usuário: implicações para jogos de entretenimento e conscientização",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45358",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "George Lucas M. Silva (USP); Tomás Queiroz Ferreira Barata (USP)"
+      },
+      {
+        "titulo": "Design e desenvolvimento de um jogo sério de apoio ao ensino de banco de dados",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45378",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Adrieli Alexandre Caetano (UFOP); Tiago França Melo de Lima (UFOP)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Artes & Design",
+    "codigo": "ST08",
+    "titulo": "Mecânicas, Sistemas e Balanceamento",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Sala D",
+    "evento": "SBGAMES",
+    "chair": "Rian Rezende (PUC-Rio)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Customização de combate em jogos Metroidvania: um estudo exploratório a partir do protótipo Guardião Esquecido",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45353",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Delmar Galisi Domingues (Universidade Anhembi Morumbi); Giovane Lima Morozetti (Universidade Anhembi Morumbi); Rodrigo Mata Spengler (Universidade Anhembi Morumbi)"
+      },
+      {
+        "titulo": "Disturbance: A Conceptual Tool for Horror Game Design",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45379",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Miguel Nascimento (UFRJ); Geraldo Xexéo (UFRJ)"
+      },
+      {
+        "titulo": "Flairplay Engine: Uma Ferramenta para Apoio ao Game Designer em Balanceamento de Jogos Digitais",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45392",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Maria Clarissa Carminatti (CEFET/RJ); Marcus Parreiras (CEFET/RJ / UFRJ); Leonardo Ruma Martins (UFRJ); Lucas Vieira Dinato (UFRJ); Marcelo Silva (CEFET/RJ); Geraldo Bonorino Xexéo (UFRJ)"
+      },
+      {
+        "titulo": "Contextual, Focal, or Fear: How Metroidvania Games Fit into Bernard Perron’s Terminology",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45351",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Orleoncio Maciel de Oliveira Filho (IFCE); Bruno Correia da Silva (IFCE)"
+      },
+      {
+        "titulo": "Interação Dinâmica com Cenário em Jogos de Luta: Ampliação das Estratégias de Combate",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45352",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Delmar Galisi Domingues (Universidade Anhembi Morumbi); Amanda Lima Watanabe (Universidade Anhembi Morumbi); Jonas Caetano Xavier Lopes (Universidade Anhembi Morumbi); Rodrigo Lima Costa (Universidade Anhembi Morumbi)"
+      },
+      {
+        "titulo": "Modelagem e análise de níveis de jogos baseadas em Redes de Petri Coloridas",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45366",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Lucas Emerenciano (UFJ); Hugo Borges (UFJ); Criscilla M. C. Rezende (UFJ); Joslaine C. Jeske de Freitas (UFJ); Franciny M. Barreto (UFJ)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Cultura",
+    "codigo": "ST04",
+    "titulo": "Experiência do jogador, empatia, memória e produção de sentido",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Sala E",
+    "evento": "SBGAMES",
+    "chair": "Daniel Leite Costa (UNIFACISA); Caio Tulio Olimpio Pereira da Costa (UNEB)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "A Experiência do Jogador em Jogos Empáticos: Uma Análise do Jogo Florence",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45447",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Tarço Israel Freitas Batista (UFC); Pedro Arruda de Oliveira (UNICAMP); Cristiano Maciel (UFMT); Marcelo Martins da Silva (UFC)"
+      },
+      {
+        "titulo": "Empatia em Jogos Digitais: Análise de Comentários sobre To The Moon",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45449",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Letícia Araújo da Silva (UFC); Julia Laiza Felipe de Souza (UFC); Thaiza Rafaela de Freitas (UFC); Maria Aparecida Precebes da Silva (UFC); Erika Rodrigues Gouveia (UFC); Pedro Arruda de Oliveira (UNICAMP); Marcelo Martins da Silva (UFC)"
+      },
+      {
+        "titulo": "Empatia e luto na experiência do jogador em Gris: análise por feedbacks",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45450",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Samuel Moreno Araújo (UFC); Wesley Lessa Pinheiro (UFC); Antônio Selton Colares Maia (UFC); Francisco Robson Queiroz Mendes (UFC); John Kelvy de Souza (UFC); Pedro Arruda de Oliveira (UNICAMP); Ana Cesarina de Oliveira Carneiro (UFC); Marcelo Martins da Silva (UFC)"
+      },
+      {
+        "titulo": "O Que Meu Deck Diz Sobre Mim? Uma Análise de Como Jogadores Brasileiros de Magic: the Gathering Constroem Seus Decks no Formato Commander",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45457",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Kláudio Henrique Mascarenhas Medeiros (UFRN / Unifacisa)"
+      },
+      {
+        "titulo": "Post-Mortem Concepts in Digital Games: A Systematic Literature Review",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45464",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Alexandre Muraro do Carmo (UFMT); Karen da Silva Figueiredo Medeiros Ribeiro (UFMT)"
+      },
+      {
+        "titulo": "Produção de sentido em jogos digitais: uma análise semiótica peirceana da personagem Raíssa Oliveira de A Lenda dos Cristais",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45468",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Gustavo Marques da Silveira (UNEB); Caio Tulio Olímpio Pereira da Costa (UNEB); Felipe Cerqueira Santos (UNEB)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Saúde",
+    "codigo": "ST04",
+    "titulo": "Apoio ao Diagnóstico",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Sala G",
+    "evento": "SBGAMES",
+    "chair": "Isabel Cristina Siqueira da Silva (UFCSPA)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Avaliação Heurística de Jogabilidade de Um Protótipo de Jogo Digital Sobre Cognição Musical",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45578",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Rodrigo Martins de Souza (UFABC); Júlia Pessoa (UFABC); Mário Bozolão (UFABC); André Kazuo Yasui (UFABC); Ryan Sallati (UFABC); Vinícius Russo (UFABC); André Luiz Brandão (UFABC)"
+      },
+      {
+        "titulo": "A Systematic Mapping of Game-based Interventions for Social Connection",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45587",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Rebeca Gliosci (UnB); Sheila Giardini Murta (UnB)"
+      },
+      {
+        "titulo": "Desenvolvimento de um Jogo Digital de Memória para Apoio à Observação Comportamental no Transtorno do Espectro Autista",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45573",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Bianca Waskow (UFPel); Theo Cassuriaga (UFPel); Rafael Freitas (UFPel); Ânderson dos Santos Ritta (IFSul / UFPel); Tatiana Tavares (UFPel)"
+      },
+      {
+        "titulo": "Evaluation of the Potential of a Mobile Application as a Clinical Support Tool for ADHD from the Perspective of Healthcare Specialists",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45586",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Alexandre F. Arigoni (PUC Minas); Caroline R. S. Jandre (PUC Minas); Débora M. de Miranda (UFMG); Cristiane N. Nobre (PUC Minas)"
+      },
+      {
+        "titulo": "Jogos Digitais como Ferramentas de Apoio ao Diagnóstico e Tratamento do TEA",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45581",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Felipe Maia (UEL); Otávio Henrique Cheloni Marcondes (IFPR); Ana Caroline Nogueira (IFPR); Luiz Carlos Ferreira (IFPR); Jacques Duílio Brancher (UEL)"
+      },
+      {
+        "titulo": "Jogos Sérios como Ferramentas de Apoio ao Diagnóstico de TDAH em Crianças e Adolescentes: Uma Revisão Sistemática",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45591",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Marina Hurtado de Souza (FURG); Joana Mendonça (UNIFESP); André Vargas (FURG); Rodrigo de Bem (FURG)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Computação",
+    "codigo": "ST04",
+    "titulo": "Game Development, Architecture and Technologies",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Sala B",
+    "evento": "SBGAMES",
+    "chair": "Geraldo Xexéo (COPPE/UFRJ)",
+    "quantidadePapers": 5,
+    "quantidadeSubsessions": 5,
+    "papers": [
+      {
+        "titulo": "PinGA: Semi-Automated Provenance Instrumentation for Digital Games",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45409",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "David Lopes de Santana Vazquez (UFF); Troy Costa Kohwalter (UFF)"
+      },
+      {
+        "titulo": "Towards a Reference Architecture for Designing Open-Source Digital Games",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45419",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Fernando Yang (USP); Alessandreia Marta de Oliveira (UFJF); Renan Vinicius Aranha (USP); Pedro Henrique Dias Valle (USP)"
+      },
+      {
+        "titulo": "A Declarative Model for Entity-Component-System Game Descriptions",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45426",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Breno Guimarães (UFRJ); Geraldo Xexéo (UFRJ)"
+      },
+      {
+        "titulo": "Adaptive Broad-Phase Collision Detection in Unity Using Thompson Sampling",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45408",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Raul Costa Feitosa (UNIFOR); Maria Andréia Formico Rodrigues (UNIFOR)"
+      },
+      {
+        "titulo": "NodeCrafter: Tool for stochastic modeling board games and RPG",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45418",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Alexandre Altair de Melo (UFJF); Luis Eduardo Bet (UFJF); André Bonetto Trindade (UFJF); Marcelo da Silva Hounsell (UFJF)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Educação",
+    "codigo": "ST07",
+    "titulo": "Jogos para o ensino da Computação - Programação",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Sala C",
+    "evento": "SBGAMES",
+    "chair": "Pedro Henrique Dias Valle (USP)",
+    "quantidadePapers": 7,
+    "quantidadeSubsessions": 7,
+    "papers": [
+      {
+        "titulo": "POOcketMonsters: Um Jogo Educacional Digital para Apoiar o Ensino de Programação Orientada a Objetos",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45503",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Bruno Vasconcelos (UFJF); Allan Rodrigues (UFJF); Pedro Henrique Valle (IME / USP); Alessandreia Oliveira (UFJF)"
+      },
+      {
+        "titulo": "Desenvolvimento e Avaliação de um Jogo Educacional Digital para o Ensino de Programação no Ensino Médio",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45505",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Ana Clara Laredo (UFJF); Daniel Madeira (UFJF); Elverton Fazzion (UFJF); Pedro Henrique Valle (USP); Alessandreia de Oliveira (UFJF)"
+      },
+      {
+        "titulo": "Jogos de cartas para ensino de programação em ambiente web",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45545",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Lucas Ibiapino (UFMA); Djefferson Maranhão (UFMA); Carlos de Salles S. Neto (UFMA)"
+      },
+      {
+        "titulo": "Narrativa Emergente ou Embutida? Uma Análise Comparativa de Jogos Analógicos Competitivos e Colaborativos para o Ensino de Desenvolvimento Web",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45517",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Rafael Ruiz Schlichting (UEM); Maurilio M. Campano Junior (UEM / UniCesumar); Felippe Fernandes da Silva (UniCesumar); Linnyer B. Ruiz Aylon (UniCesumar)"
+      },
+      {
+        "titulo": "Um Mapeamento Sistemático dos Mapeamentos e Revisões Sistemáticas publicados no Simpósio Brasileiro de Jogos e Entretenimento Digital",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45516",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Maurilio Martins Campano Junior (UEM / UniCesumar); Linnyer Beatrys Ruiz Aylon (UEM); Karine Oliveira Fonseca (FURG); Leonardo Ramos Emmendorfer (FURG)"
+      },
+      {
+        "titulo": "Explorando a Lógica de Programação com Visualização da Execução em um Jogo Educacional Digital",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45502",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Allan Rodrigues (UFJF); Bruno Vasconcelos (UFJF); Sarah Silva (UFJF); Pedro Henrique Valle (USP); Alessandreia Oliveira (UFJF)"
+      },
+      {
+        "titulo": "Utilização de Role-Playing Game e Discurso do Sujeito Coletivo no contexto de Recursos Hídricos para Análise das Estratégias dos Jogadores",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45554",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Fernanda P. Mota (FURG); Miriam B. Born (UFPEL); Marilton S. Aguiar (UFPEL); Diana F. Adamatti (FURG)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Educação",
+    "codigo": "ST08",
+    "titulo": "Jogos e Saúde",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Sala F",
+    "evento": "SBGAMES",
+    "chair": "Jesse Nery Filho (IF Baiano)",
+    "quantidadePapers": 6,
+    "quantidadeSubsessions": 6,
+    "papers": [
+      {
+        "titulo": "Using Minecraft as a Tool for Teaching Graph Theory to Students with ADHD",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45477",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Ana Clara Brusamarello Barbosa (UFFS); Andrei de Almeida Sampaio Braga (UFFS)"
+      },
+      {
+        "titulo": "Exergame Sério de Seleção de Vestimentas em Labirinto para Crianças com Transtorno do Espectro Autista",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45489",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Marlow Rodrigo Becker Dickel (Udesc); Marcelo da Silva Hounsell (Udesc)"
+      },
+      {
+        "titulo": "Desenvolvimento de um aplicativo com estratégias gamificadas para rotinas de estudo de adolescentes com TDAH",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45501",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Pedro Olyntho Carvalho Alves (PUC Minas); Rosilane Ribeiro da Mota (PUC Minas)"
+      },
+      {
+        "titulo": "Designing Serious Digital Games Used to Exercise Computational Thinking Skills in Children on the Autism Spectrum",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45523",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Katherin F. C. Malpartida (USP); Suzane S. dos Santos (USP); Kamila R. H. Rodrigues (USP)"
+      },
+      {
+        "titulo": "Integrando Psicologia e Engenharia no Desenvolvimento de Jogos Cognitivos Físicos",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45543",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Thamyres C. da C. Abreu (UFRJ); Luiz H. da C. Pacheco (UFRJ); Igor dos S. Gomes (UFRJ); Juliana da C. Vieira (UFRJ); Bruna C. G. D. Santos (UFRJ); Maria Paula M. Maynard (UFRJ); Cristina M. D. Wigg (UFRJ); Tharcisio C. Fontainha (UFRJ)"
+      },
+      {
+        "titulo": "Projetos Progressivos de Jogos Digitais para o Ensino de Linguagens de Programação: Um Relato de Experiência",
+        "link": "https://sol.sbc.org.br/index.php/sbgames/article/view/45550",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Felippe Fernandes da Silva (UEM); Williamson Silva (UFCA); Gislaine Camila Lapasini Leal (UEM); Renato Balancieri (UEM)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "[CTDGames] Concurso de Dissertações",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Sala AZUL",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 4,
+    "quantidadeSubsessions": 4,
+    "papers": [
+      {
+        "titulo": "#25727: Uma Abordagem com Multiagentes Baseados em LLMs para o Design de Jogos Educativos Endógenos",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "16:20",
+        "autores": "Caio Silva Azeredo (Candidato); Geraldo Xexéo (Orientador) Prêmio: Técnico"
+      },
+      {
+        "titulo": "#26485: Catálogo de Requisitos Não Funcionais Para Apoiar o Design de Estéticas para Jogos Digitais",
+        "link": "",
+        "horarioInicio": "16:20",
+        "horarioFim": "16:40",
+        "autores": "Rafael Carrion (Candidato); Tadeu Moreira de Classe (Orientador); Henrique Prado de Sá Sousa (Orientador) Prêmio: Técnico"
+      },
+      {
+        "titulo": "#29176: PEACH: um modelo de avaliação de interfaces de jogos educacionais baseado em princípios cognitivos",
+        "link": "",
+        "horarioInicio": "16:40",
+        "horarioFim": "17:00",
+        "autores": "Jeniffer Macena (Candidata); Elaine Harada (Orientadora); Fernanda Pires (Orientadora); Marcela Pessoa (Orientadora) Prêmio: Game Design"
+      },
+      {
+        "titulo": "#29266: QuilombApp Play: Um Jogo Educacional Móvel Baseado em Mapeamento Sistemático da Literatura para Ensino e Valorização da Cultura Quilombola",
+        "link": "",
+        "horarioInicio": "17:00",
+        "horarioFim": "17:20",
+        "autores": "Jonathan Sales (Candidato); Sandro Ronaldo Bezerra Oliveira (Orientador) Prêmio: Game Design"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "Educação",
+    "codigo": "",
+    "titulo": "SP Short Paper 03",
+    "horarioInicio": "16:00",
+    "horarioFim": "17:30",
+    "sala": "Espaço PESQUISA",
+    "evento": "SBGAMES",
+    "chair": "Pedro Henrique Dias Valle (USP); Jesse Nery Filho (IF Baiano)",
+    "quantidadePapers": 31,
+    "quantidadeSubsessions": 31,
+    "papers": [
+      {
+        "titulo": "Memory Card: Um Jogo Analógico para Ensino de Comandos Computacionais por Associação Tripla",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Leonardo Uchôa Damasceno dos Anjos (Ifce); Andressa Bezerra Ferreira (Ifce)"
+      },
+      {
+        "titulo": "Gamification and Serious Games for Teaching Brazilian Sign Language: Partial Results of a Systematic Literature Review",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Ricardo Silva (IFPA); Flávio Moura (UFPA); Waldemiro José Assis Gomes Negreiros Negreiros (Universidade Federal do Pará); Renato Araujo Lima; Marcos César da Rocha Seruffo (Universidade Federal do Pará); Vanessa Andrade Pereira (UNIFESP); Paulo Andre Ignacio Pontes (IFPA)"
+      },
+      {
+        "titulo": "Gamificação no ensino de Física no Ensino Médio: efeitos sobre motivação, engajamento e percepção de aprendizagem",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Heloisa De jesus Macedo (IFBAIANO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA BAIANO); Maria Vitória Rodrigues Macêdo (Instituto Federal de Educação, Ciência e Tecnologia Baiano); John Kaick Lima Vasconcelos Oliveira (Instituto Federal de Educação, Ciência e Tecnologia Baiano); Danilo Sande Santos (IF Baiano)"
+      },
+      {
+        "titulo": "O Uso de Jogos Sérios como Ferramenta de Apoio ao Ensino de Ecologia: Estudo de Caso com o Capy Runner",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Lucas Weber (UNIPAMPA); Daniel Oliveira das Neves (INFNET); Pedro Guilherme da Silva Araújo"
+      },
+      {
+        "titulo": "SYNTAX: Gamificação do Ensino de Lógica de Programação em um Serious Game de Horror em Primeira Pessoa",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Filipe Galvão (UEFS); Victor Travassos Sarinho (UEFS)"
+      },
+      {
+        "titulo": "EEG-Based Brain-Computer Interface for Educational Games: Cognitive State Monitoring in AI-Driven Financial Literacy Learning",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Gabriel Santos (UFU); Rita Maria Silva Julia (Federal University of Uberlandia); Marcelo Zanchetta do Nascimento (UFU)"
+      },
+      {
+        "titulo": "Gameta: da experiência do EducaSUS a uma abordagem ludopedagógica para a Educação Básica",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Daniel de Sant'anna Martins (D+1 Design & Jogos); Geraldo Xexéo (UFRJ)"
+      },
+      {
+        "titulo": "RegexMon: An RPG for Teaching Regular Expressions in Computing Education",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Lorena Roberta Nunes Guimarães (Unifap); Julio Cezar Costa Furtado (Unifap)"
+      },
+      {
+        "titulo": "Code Trials: An Approach to Teaching Programming Logic Through Platform Game Mechanics",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "José Olímpio de Freitas Dias Júnior (Unifap); José Kaynã Pereira de Sousa Bitencourt (Unifap); Julio Cezar Costa Furtado (Unifap)"
+      },
+      {
+        "titulo": "Linha de Produtos de Jogos para o Ensino de SQL",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Eduardo Assafin (CEFET/RJ); Diego Castro (CEFET/RJ); Claudia Werner (COPPE / UFRJ); Geraldo Xexéo (UFRJ)"
+      },
+      {
+        "titulo": "Board game design in a Computing course as a strategy to promote critical reflection on online betting",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Daniel Neves; Eduardo Mansur Ferreira Bittencourt Júnior; Cacilda Oliveira; Luma da Rocha Seixas"
+      },
+      {
+        "titulo": "Mediando a Alfabetização e Letramento Ambiental do Pantanal por meio de um Game Digital",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Gilvan Ferreira (UFMS); Miguel Sobreira de Albuquerque (UFMS); Lourdes Oshiro Igarashi (Universidade Federal de Mato Grosso do Sul); Lara Liz Perius (UFMS); Maria Istela Cagnin (Universidade Federal de Mato Grosso do Sul); Debora Maria Barroso Paiva (Universidade Federal de Mato Grosso do Sul); Ricardo Theis Geraldi (UFMS)"
+      },
+      {
+        "titulo": "Game Based Learning no Ensino de Física: Um Estudo com Planos Inclinados",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Vitória Bitencourte Galliac (IFSP); Fábio Modesto (IFSP)"
+      },
+      {
+        "titulo": "Gamificação e Impressão 3D na Educação Física: Uma Proposta Inovadora",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Eliza Catarina Rodrigues Dubois (semed); Heleno Carmo Borges Cabral (Instituto Federal Farroupilha Campus Alegrete)"
+      },
+      {
+        "titulo": "Da Jogadora à Criadora: Uma Proposta de Formação de Meninas em Computação por meio do Desenvolvimento de Jogos",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Rachel Liberato (UFC); Sara Alcoforado (UFC); Natália Silveira Alves (UFC); Lucas Santos (Universidade Federal do Ceará UFC); Wesley Santos (Universidade Federal do Ceará UFC); Viviane Menezes (UFC); Jacilane de H. Rabelo (UFC)"
+      },
+      {
+        "titulo": "Campeonato de jardins: jogo de cartas infantil para educação ambiental",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Aline Silva Santos (IFSP); Diego Augusto Lobo (Univesp - Universidade Virtual do Estado de SP); Isadora Alves Lobo (IFSP); kamily silva (Ifsp São Paulo)"
+      },
+      {
+        "titulo": "Sinuca do Conhecimento - Um GameBook para o Estudo de Elementos da Tabela Periódica",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Adriel Santana; Luan Barbosa; Victor Travassos Sarinho (UEFS)"
+      },
+      {
+        "titulo": "Masters of Patterns - Do Tabuleiro à Engine Unity: um Jogo Educacional Digital para o Ensino de Padrões de Projeto GoF",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Douglas Lima (UFC); Guilherme Venâncio (UFC CE); Lucas Santos (Universidade Federal do Ceará UFC); Wesley Santos (Universidade Federal do Ceará UFC); Jacilane de H. Rabelo (UFC)"
+      },
+      {
+        "titulo": "Gamification Design for a Software Testing I Undergraduate Course Using Level-Up Framework",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Kláudio Henrique Mascarenhas Medeiros (UFRN); Roberta Souza Coelho (UFRN); Charles Madeira (UFRN)"
+      },
+      {
+        "titulo": "Lógic Snakes and Ladders: uma atividade gamificada para o ensino de algoritmos e programação",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Lucas Vinícius Hermogenes da Silva (IF Baiano); Roberto Freitas (IF Baiano); Jesse Nery Filho (Instituto Federal de Ensino Baiano); Carlos Silva (IF Baiano); João Paulo M. Moura (IF Baiano); Raniel César F. C. Carmo (IF Baiano); Cauã Rodrigo L. de Souza (IF Baiano); Matheus da Silva Castro (Instituto Federal de Educação Ciência e Tecnologia Baiano Campus Senhor do Bonfim)"
+      },
+      {
+        "titulo": "LLabGames: Um Laboratório de Jogos Educacionais Voltado à Aprendizagem Ativa",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Douglas Lima (UFC); Rachel Liberato (UFC); Sara Alcoforado (UFC); Guilherme Venâncio (UFC CE); Lucas Santos (Universidade Federal do Ceará UFC); Wesley Santos (Universidade Federal do Ceará UFC); Jacilane de H. Rabelo (UFC)"
+      },
+      {
+        "titulo": "A Tycoon-Based Serious Game Proposal for Learning Computer Architecture",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Fábio A.M. Cappabianco (UNIFESP); Arthur Goncalves (UNIFESP)"
+      },
+      {
+        "titulo": "K(o)mplexity: Design de um Serious Game com Integração Intrínseca para Ensino de Complexidade Algorítmica",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Jáder Gonçalves (ICMC, Universidade de Sao Paulo); Lucas Marques da Cunha (UNIR)"
+      },
+      {
+        "titulo": "Desenvolvimento de um jogo educacional mobile para solução de problemas de programação orientada a objetos usando Flutter",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Yasmim Ferreira (instituto federal do paraná campus londrina); Anderson Yoshiaki Iwazaki da Silva (UTFPR)"
+      },
+      {
+        "titulo": "Style Journey: A Gamification Proposal for Teaching CSS with Generative AI",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Leticia Fontenele (Instituto Federal do Ceará IFCE); Victor Guilherme da Silveira Castro (Instituto Federal de Educação, Ciência e Tecnologia do Ceará); Thiago Alves Rocha (Instituto Federal de Educação, Ciência e Tecnologia do Ceará); Bruno Correia da Silva (Instituto Federal de Educação, Ciência e Tecnologia do Ceará); Carlos Henrique Leitão Cavalcante (Instituto Federal de Educação, Ciência e Tecnologia do Ceará)"
+      },
+      {
+        "titulo": "Desenvolvimento do jogo Detetive Bibis em Ação! para a contextualização do ensino de Biologia Celular",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Melissa Hui Lin Tan (UERJ); Anatália Kutianski Gonzalez Vieira (UERJ); Tiago Savignon Cardoso Machado; Elizabeth Teixeira de Souza (UERJ); Barbra Candice Southern (UERJ); Waldiney Mello (UERJ)"
+      },
+      {
+        "titulo": "Investe: An Educational Application for Teaching Financial Investments to Beginners",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "JOÃO PEDRO BARROS DE MOURA (IFCE Maracanaú); Paulo Afonso Pamplona (Ifce); Thiago Alves Rocha (Instituto Federal de Educação, Ciência e Tecnologia do Ceará); Bruno Correia da Silva (Instituto Federal de Educação, Ciência e Tecnologia do Ceará); Carlos Henrique Leitão Cavalcante (Instituto Federal de Educação, Ciência e Tecnologia do Ceará)"
+      },
+      {
+        "titulo": "Proposta de Escape Room Digital para o Ensino de Transitividade Verbal no Ensino Fundamental II",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Yasmim Neri (IFPA); Lyndon Johnson Lopes de Oliveira Junior Júnior (IFPA); Flávio Moura (UFPA); Paulo Andre Ignacio Pontes (IFPA)"
+      },
+      {
+        "titulo": "Isso é causa ganha, doutor? Objeto interativo de aprendizagem na gamificação do ensino de Direito",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Ana Clara Lopes (UNEB); Pedro Costard (UNEB); Paula Guimarães (Nandapl); Eduardo Marinho; Victor M. Cayres (Victor Cayres: Soluções Lúdicas e Narrativas Transmídia)"
+      },
+      {
+        "titulo": "PÉTALAS DE CONSCIÊNCIA: UM JOGO SÉRIO NARRATIVO PARA A PREVENÇÃO DO CÂNCER DE MAMA",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Guilherme Garcia Monteiro (Unifor); Eduardo Henrique Paiva Suaki (Unifor); Juliana Martins de Oliveira (Unifor); Tarciane Carvalho de Moura Fé"
+      },
+      {
+        "titulo": "Play-MVC: Usage of an educational tabletop game to teach the software architecture Model-View-Controller",
+        "link": "",
+        "horarioInicio": "16:00",
+        "horarioFim": "17:30",
+        "autores": "Ágatha Alice Fabris Dias de Souza (instituto federal do paraná campus londrina); Yasmim Ferreira (instituto federal do paraná campus londrina)"
+      }
+    ]
+  },
+  {
+    "data": "01/10/2026",
+    "trilha": "SBGames",
+    "codigo": "",
+    "titulo": "Conference Dinner",
+    "horarioInicio": "20:00",
+    "horarioFim": "22:00",
+    "sala": "",
+    "evento": "SBGAMES",
+    "chair": "",
+    "quantidadePapers": 0,
+    "quantidadeSubsessions": 0,
+    "papers": []
+  }
+]
